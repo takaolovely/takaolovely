@@ -32,11 +32,15 @@ I focus on building practical AI tools, exploring vibe coding workflows, and occ
 | [recallspend](https://github.com/takaolovely/recallspend) | Intelligent spending tracking and memory system |
 | [speclock](https://github.com/takaolovely/speclock) | Keyless invoice system with attestation logic |
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takaolovely&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takaolovely&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=takaolovely&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=takaolovely&theme=github_dark&hide_border=true" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=takaolovely&layout=compact&theme=github_dark&hide_border=true" height="150" />
 </div>
 
 ## Contact
